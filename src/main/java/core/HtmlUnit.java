@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 public class HtmlUnit {
-	public static void main(String[] args) {
+	public static void main(String[] a) {
 
 		WebDriver driver = new HtmlUnitDriver();   // Version 1.2 :: HtmlUnit
 
